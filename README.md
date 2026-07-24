@@ -1,7 +1,7 @@
 # Quantum-Chemistry-and-Computing-for-the-Curious-Second-Edition
 Quantum Chemistry and Computing for the Curious, Second Edition, published by Packt
 
-<a href="https://www.packtpub.com/product/quantum-chemistry-and-computing-for-the-curious/9781803243900?utm_source=github&utm_medium=repository&utm_campaign=9781803243900"><img src="https://content.packt.com/B37344/cover_image_small.jpg" alt="Quantum Chemistry and Computing for the Curious" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/en-us/product/quantum-chemistry-and-computing-for-the-curious-9781807304669"><img src="https://content.packt.com/B37344/cover_image_small.jpg" alt="Quantum Chemistry and Computing for the Curious" height="256px" align="right"></a>
 
 This is the code repository for **Quantum Chemistry and Computing for the Curious, Second Edition, Illustrated with Python and Qiskit® code** published by Packt.
 
